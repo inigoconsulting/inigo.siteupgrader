@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<layers>
-    <layer name="inigo.siteupgrader"
-        interface="inigo.siteupgrader.interfaces.IProductSpecific" />
-</layers>
